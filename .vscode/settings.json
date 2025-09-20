@@ -1,11 +1,11 @@
 {
     "files.associations": {
-        "bitset": "cpp",
         "any": "cpp",
         "array": "cpp",
         "atomic": "cpp",
         "barrier": "cpp",
         "bit": "cpp",
+        "bitset": "cpp",
         "cctype": "cpp",
         "cfenv": "cpp",
         "charconv": "cpp",
